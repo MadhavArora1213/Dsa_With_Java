@@ -1,6 +1,6 @@
 public class CalculateTimeComplexityOfConstantAlgorithms {
     public static void main(String[] args) {
-        CalculateTimeComplexityOfConstantAlgorithms demo = new CalculateTimeComplexityOfConstantAlgorithms();
+        CalculateTimeComplexityOfConstantAlgorithms demo = new CalculateTimeComplexityOfConstantAlgorithms(); 
         System.out.println(demo.sum(8,9));
     }
     public int sum(int a, int b){

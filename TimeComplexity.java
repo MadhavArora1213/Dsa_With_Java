@@ -3,7 +3,7 @@ public class TimeComplexity {
 
     public static void main(String[] args) {
         double now = System.currentTimeMillis();
-        TimeComplexity demo = new TimeComplexity();
+        TimeComplexity demo = new TimeComplexity();    // You can access the public function using the object that class.
         System.out.println(demo.FindSum(99999));
         System.out.println("Time Taken - " + (System.currentTimeMillis() - now) + "millisecs.");
     }
