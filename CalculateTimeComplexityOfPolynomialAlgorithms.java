@@ -5,7 +5,7 @@ public class CalculateTimeComplexityOfPolynomialAlgorithms {
 
     }
 
-    //This Block of code takes n*n times to execute because of for loop inside the for loop that why its time complexity is O(n^2)--> The POlynomial Time Complexity taht is really a bad time complexity.
+    //This Block of code takes n*n times to execute because of for loop inside the for loop that why its time complexity is O(n^2)--> The Polynomial Time Complexity taht is really a bad time complexity.
     public void print(int n){
         for(int i=1;i<=n;i++){
             for(int j=1;j<=n;j++){
