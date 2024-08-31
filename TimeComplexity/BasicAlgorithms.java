@@ -1,3 +1,4 @@
+
 public class BasicAlgorithms{
   static void func(float a,float b, float c){    //Not use public keyword if you use it give an error
     float sum =a + b + c;
