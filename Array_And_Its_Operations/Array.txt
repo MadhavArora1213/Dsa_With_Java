@@ -1,0 +1,36 @@
+# Array:- Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+# To declare an array, define the variable type with square brackets:
+    String[] cars;
+
+# Access the Elements of an Array:-
+    You can access an array element by referring to the index number.The index is start from the zero.
+
+# Size of the array is fixed and we cannot modified, once it is created.
+
+# Declaration of an array:- 
+    One dimensional array can be declared as:-
+        dataType arrayName[];
+        dataType[] arrayName;   // It is a prefered method for declaring an array
+
+For example:- 
+        int myArray[];
+        int[] myArray;    //It is a prefered method for declaring an array
+
+# Initialization of an array:-
+    It gives memory to array elements. One dimensional array can be initialized via syntax:- 
+        arrayName = new dataType[size];
+
+For example:-
+        myArray = new int[5];
+
+
+# Declaration and Initialization:-
+    The array can be declared and initialized in same line via syntax:-
+        dataType[] arrayName = new dataType[size];
+        dataType arrayName[] new dataType[size];
+
+For example:-
+        int[] myArray = new int[5];  // it is a prefered method for declaring and initializing an array.
+        int myArray[] = new int[5]; 
+        int[] myArray = {5,4,3,2,1};
