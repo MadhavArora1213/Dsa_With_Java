@@ -15,8 +15,9 @@ public class Problem6 {
         for (int idx = 0; idx < arr.length; idx++) {
             temp[idx] = arr[idx];
         }
-        arr = temp;
-        return arr;
+        // arr = temp;
+        // return arr;
+        return temp;
     }
 
     public static void main(String[] args) {
