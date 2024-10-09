@@ -1,5 +1,5 @@
 // Container with most water
-package LeetCode_Array;
+package LeetCode_Array_And_BinarySearch;
 
 public class Problem11{
     public int maxArea(int[] height) {

@@ -1,5 +1,5 @@
 // Search in rotated sorted array
-package LeetCode_Array;
+package LeetCode_Array_And_BinarySearch;
 
 public class Problem33 {
     public static void printArray(int[] arr) {

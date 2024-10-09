@@ -1,4 +1,4 @@
-package LeetCode_Array;
+package LeetCode_Array_And_BinarySearch;
 
 public class Problem169 {
     public static int majorityElement(int[] nums) {

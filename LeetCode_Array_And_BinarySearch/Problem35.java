@@ -1,5 +1,5 @@
 // Search Insert Position
-package LeetCode_Array;
+package LeetCode_Array_And_BinarySearch;
 
 public class Problem35 {
     public static int searchInsert(int[] arr, int target) {

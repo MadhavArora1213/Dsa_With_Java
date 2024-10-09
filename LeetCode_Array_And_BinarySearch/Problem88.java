@@ -1,6 +1,6 @@
 // Merge Sorted Array
 
-package LeetCode_Array;
+package LeetCode_Array_And_BinarySearch;
 
 public class Problem88 {
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
